@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@alrra/travis-scripts": "3.0.1",
+    "lodash-cli": "4.17.4"
+  }
+}
