@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
+    "http-server": "0.10.0",
     "lodash-cli": "4.17.4"
   }
 }
